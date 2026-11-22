@@ -56,6 +56,7 @@ El estudio adopta un enfoque aplicado, cuantitativo y experimental por simulaci�
 5.2. Representación matemática de la red
 Se utiliza V = {A, B, C, D, E, F, G, H} y el conjunto E formado por las 13 conexiones listadas en la Tabla 1. Los arcos están orientados y los pares (u, v) son diferentes de (v, u). La red es débilmente conexa si se ignoran las orientaciones, pero no es fuertemente conexa.
 
+Tabla 1. Conexiones dirigidas y tiempos hipotéticos.
 
 | Arista | Minutos | Arista | Minutos |
 | :--- | :---: | :--- | :---: |
