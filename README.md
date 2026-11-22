@@ -68,10 +68,7 @@ Tabla 1. Conexiones dirigidas y tiempos hipotéticos.
 | C → E | 3 | G → H | 2 |
 | C → G | 12 | — | — |
 
-![Tabla ED II](./ED%20II.png)
-
-Figura 1. Red dirigida hipotética. Aristas naranjas: ruta de tiempo mínimo A → H. Elaboración propia.
-
+!Figura 1. Red dirigida hipotética. Aristas naranjas: ruta de tiempo mínimo A → H. Elaboración propia.](Recursos/Figura1.png)
 
 5.3. Variables e indicadores
 
