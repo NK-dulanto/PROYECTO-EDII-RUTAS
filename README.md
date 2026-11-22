@@ -1,70 +1,68 @@
-**UNIVERSIDAD PERUANA CAYETANO HEREDIA**
+<br>
 
-**FACULTAD DE CIENCIAS E INGENIERÍA**
+<p align="center"><b>UNIVERSIDAD PERUANA CAYETANO HEREDIA</b></p>
+<p align="center"><b>FACULTAD DE CIENCIAS E INGENIERÍA</b></p>
+<p align="center"><b>ESCUELA PROFESIONAL DE INGENIERÍA INFORMÁTICA</b></p>
+<p align="center">ESTRUCTURAS DISCRETAS II</p>
 
-**ESCUELA PROFESIONAL DE INGENIERÍA INFORMÁTICA**
+<br>
 
-ESTRUCTURAS DISCRETAS II
+<p align="center"><b>TRABAJO ACADÉMICO DE INVESTIGACIÓN</b></p>
 
-**TRABAJO ACADÉMICO DE INVESTIGACIÓN**
+<h2 align="center">Simulación de rutas y análisis de conectividad<br>en redes de transporte mediante grafos dirigidos</h2>
 
-## Simulación de rutas y análisis de conectividad en redes de transporte mediante grafos dirigidos
+<br>
 
-AUTORES:
-
-Calva Becerra, Sofia Dayanna
-
-De la Cruz Poma, Ithan Wilmer
-
-Dulanto Aguilar, Nemesis Krystel
-
+<p align="center"><b>AUTORES</b></p>
+<p align="center">
+Calva Becerra, Sofia Dayanna<br>
+De la Cruz Poma, Ithan Wilmer<br>
+Dulanto Aguilar, Nemesis Krystel<br>
 Reyes Garcia, Alvaro Pablo
+</p>
 
-**Tema: 4**
+<p align="center"><b>Tema: 4</b></p>
 
-ASESOR:
-
-Dr. Ing. CIP. Illesca Cangalaya, Omar Felix
-
+<p align="center"><b>ASESOR</b></p>
+<p align="center">
+Dr. Ing. CIP. Illesca Cangalaya, Omar Felix<br>
 ORCID: 0000-0002-0144-6878
+</p>
 
-SAN MARTÍN DE PORRES – PERÚ
+<br>
 
-2026
-
+<p align="center">
+SAN MARTÍN DE PORRES – PERÚ<br>
+2026<br>
 Fecha de entrega: 22 / 11 / 2026
+</p>
+
+<br>
 
 ---
 
 ## ÍNDICE
 
-- Resumen y palabras clave
-- I. Introducción
-- II. Antecedentes históricos y aportes de autores
-- III. Marco teórico
-- IV. Objetivos
-- V. Metodología y diseño
-- VI. Implementación o simulación
-- VII. Resultados y análisis
-- VIII. Discusión
-- IX. Conclusiones
-- X. Referencias bibliográficas
-- XI. Anexos
+1. [Resumen y palabras clave](#resumen)
+2. [I. Introducción](#i-introducción)
+3. [II. Antecedentes históricos y aportes de autores](#ii-antecedentes-históricos-y-aportes-de-autores)
+4. [III. Marco teórico](#iii-marco-teórico)
+5. [IV. Objetivos](#iv-objetivos)
+6. [V. Metodología y diseño](#v-metodología-y-diseño)
+7. [VI. Implementación o simulación](#vi-implementación-o-simulación)
+8. [VII. Resultados y análisis](#vii-resultados-y-análisis)
+9. [VIII. Discusión](#viii-discusión)
+10. [IX. Conclusiones](#ix-conclusiones)
+11. [X. Referencias bibliográficas](#x-referencias-bibliográficas)
+12. [XI. Anexos](#xi-anexos)
 
-**Índice de figuras**
-
-- Figura 1. Red dirigida de estudio y ruta de costo mínimo
-- Figura 2. Comparación de tiempos mínimos por escenario
-- Figura 3. Evidencias mostrando la fecha y hora en la que fueron realizadas
-- Figura 4. Programación de la reunión para culminar detalles
-- Figura 5. Reunión programada para validación del código
-
-**Índice de tablas**
-
-- Tabla 1. Conexiones dirigidas y tiempos hipotéticos
-- Tabla 2. Plan de pruebas
-- Tabla 3. Comparación de algoritmos
-- Tabla 4. Resultados de interrupciones
+| Índice de figuras | Índice de tablas |
+| :--- | :--- |
+| **Figura 1.** Red dirigida de estudio y ruta de costo mínimo | **Tabla 1.** Conexiones dirigidas y tiempos hipotéticos |
+| **Figura 2.** Comparación de tiempos mínimos por escenario | **Tabla 2.** Plan de pruebas |
+| **Figura 3.** Evidencias con fecha y hora de realización | **Tabla 3.** Comparación de algoritmos |
+| **Figura 4.** Programación de la reunión para culminar detalles | **Tabla 4.** Resultados de interrupciones |
+| **Figura 5.** Reunión programada para validación del código | |
 
 ---
 
