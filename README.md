@@ -1,3 +1,77 @@
+**<div align="center">
+
+**UNIVERSIDAD PERUANA CAYETANO HEREDIA**
+
+**FACULTAD DE CIENCIAS E INGENIERÍA**
+
+**ESCUELA PROFESIONAL DE INGENIERÍA INFORMÁTICA**
+
+ESTRUCTURAS DISCRETAS II
+
+**TRABAJO ACADÉMICO DE INVESTIGACIÓN**
+
+## Simulación de rutas y análisis de conectividad en redes de transporte mediante grafos dirigidos
+
+AUTORES:
+
+Calva Becerra, Sofia Dayanna
+
+De la Cruz Poma, Ithan Wilmer
+
+Dulanto Aguilar, Nemesis Krystel
+
+Reyes Garcia, Alvaro Pablo
+
+**Tema: 4**
+
+ASESOR:
+
+Dr. Ing. CIP. Illesca Cangalaya, Omar Felix
+
+ORCID: 0000-0002-0144-6878
+
+SAN MARTÍN DE PORRES – PERÚ
+
+2026
+
+Fecha de entrega: 22 / 11 / 2026
+
+</div>
+
+---
+
+## ÍNDICE
+
+- Resumen y palabras clave
+- I. Introducción
+- II. Antecedentes históricos y aportes de autores
+- III. Marco teórico
+- IV. Objetivos
+- V. Metodología y diseño
+- VI. Implementación o simulación
+- VII. Resultados y análisis
+- VIII. Discusión
+- IX. Conclusiones
+- X. Referencias bibliográficas
+- XI. Anexos
+
+**Índice de figuras**
+
+- Figura 1. Red dirigida de estudio y ruta de costo mínimo
+- Figura 2. Comparación de tiempos mínimos por escenario
+- Figura 3. Evidencias mostrando la fecha y hora en la que fueron realizadas
+- Figura 4. Programación de la reunión para culminar detalles
+- Figura 5. Reunión programada para validación del código
+
+**Índice de tablas**
+
+- Tabla 1. Conexiones dirigidas y tiempos hipotéticos
+- Tabla 2. Plan de pruebas
+- Tabla 3. Comparación de algoritmos
+- Tabla 4. Resultados de interrupciones
+
+---**
+
 # PROYECTO-EDII-RUTAS
 
 ## RESUMEN
