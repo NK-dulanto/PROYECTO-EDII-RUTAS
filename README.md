@@ -1,5 +1,3 @@
-**<div align="center">
-
 **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
 
 **FACULTAD DE CIENCIAS E INGENIERÍA**
@@ -36,8 +34,6 @@ SAN MARTÍN DE PORRES – PERÚ
 
 Fecha de entrega: 22 / 11 / 2026
 
-</div>
-
 ---
 
 ## ÍNDICE
@@ -70,7 +66,7 @@ Fecha de entrega: 22 / 11 / 2026
 - Tabla 3. Comparación de algoritmos
 - Tabla 4. Resultados de interrupciones
 
----**
+---
 
 # PROYECTO-EDII-RUTAS
 
