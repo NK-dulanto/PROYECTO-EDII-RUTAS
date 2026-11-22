@@ -68,4 +68,25 @@ Tabla 1. Conexiones dirigidas y tiempos hipotéticos.
 | C → E | 3 | G → H | 2 |
 | C → G | 12 | — | — |
 
+![Tabla ED II](./ED%20II.png)
+
+Figura 1. Red dirigida hipotética. Aristas naranjas: ruta de tiempo mínimo A → H. Elaboración propia.
+
+
+5.3. Variables e indicadores
+
+
+Variables de entrada: vértices, aristas, pesos, origen A, destino H y arista que se elimina. Indicadores de salida: camino BFS, número de saltos, camino Dijkstra, tiempo mínimo, cantidad de vértices alcanzables desde A y número de CFC. Se emplea un orden alfabético fijo de vecinos para que las trazas sean repetibles.
+
+
+5.4. Procedimiento y herramientas
+
+
+La simulación se programó en Python 3 utilizando collections.deque, heapq y estructuras estándar dict/set. El procesamiento tiene cuatro fases: construcción del grafo, consulta de caminos, cálculo de componentes y ejecución de escenarios de interrupción. No requiere bibliotecas externas. Las figuras se elaboraron por separado para ilustrar el modelo y los resultados.
+
+
+5.5. Algoritmos (pseudocódigo resumido)
+
+
+BFS(G, s, t): crear cola [s] y predecesor[s] = vacío; mientras haya elementos, extraer u; por cada vecino no visitado, registrar su predecesor y encolarlo; reconstruir el camino hacia t. DFS(G, s): explorar vecinos por pila hasta agotar los alcanzables. Dijkstra(G, s, t): mantener distancias y cola mínima; extraer u con menor distancia; si es vigente, relajar cada arco saliente; reconstruir el trayecto óptimo. CFC(G): calcular orden de finalización por DFS; invertir todas las aristas; explorar el traspuesto según el orden inverso; agrupar nodos visitados en cada exploración.
 
